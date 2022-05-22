@@ -1,0 +1,11 @@
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.csproj.AssemblyReference.cache
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.csproj.SuggestedBindingRedirects.cache
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0._1.Form1.resources
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0._1.Properties.Resources.resources
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.csproj.GenerateResource.cache
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.csproj.CoreCompileInputs.cache
+E:\Учёба\прога\test_0.1\test_0.1\bin\Debug\test_0.1.exe.config
+E:\Учёба\прога\test_0.1\test_0.1\bin\Debug\test_0.1.exe
+E:\Учёба\прога\test_0.1\test_0.1\bin\Debug\test_0.1.pdb
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.exe
+E:\Учёба\прога\test_0.1\test_0.1\obj\Debug\test_0.1.pdb
