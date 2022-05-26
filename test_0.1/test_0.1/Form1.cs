@@ -120,7 +120,7 @@ namespace test_0._1
             {
                 radioButton1.Visible = true;
                 radioButton2.Visible = true;
-                start("C:/Users/aveng/Source/Repos/a-vengrzhinovskaya/individual_work/test_0.1/test_0.1/t.txt");
+                start("C:/Users/aveng/Source/Repos/individual_work/test_0.1/test_0.1/t.txt");
                 return;
             }
             if (button1.Text == "завершить")
@@ -134,7 +134,7 @@ namespace test_0._1
             
             if (Read.EndOfStream == true)
             {
-                start("C:/Users/aveng/Source/Repos/a-vengrzhinovskaya/individual_work/test_0.1/test_0.1/t.txt");
+                start("C:/Users/aveng/Source/Repos/individual_work/test_0.1/test_0.1/t.txt");
             }
 
             quaction();
@@ -154,7 +154,7 @@ namespace test_0._1
             radioButton1.CheckedChanged += new EventHandler(состояние_переключение); //упр событиями
             radioButton2.CheckedChanged += new EventHandler(состояние_переключение);
 
-            start("C:/Users/aveng/Source/Repos/a-vengrzhinovskaya/individual_work/test_0.1/test_0.1/t.txt");
+            start("C:/Users/aveng/Source/Repos/individual_work/test_0.1/test_0.1/t.txt");
         }
 
         private void label1_Click(object sender, EventArgs e)
